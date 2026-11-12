@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Ghayyaz Ali 👋
 
-<!--
-**ghayyaz-ali/ghayyaz-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Student | Cybersecurity Intern
 
-Here are some ideas to get you started:
+I'm a Cybersecurity student at the University of Okara and currently a Cybersecurity Intern at NETWORKWALKS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have completed the Google Cybersecurity Professional Certificate (9 courses) and am continuously developing my technical knowledge through hands-on practice and structured learning.
+
+🎓 Certifications
+
+- Google Cybersecurity Professional Certificate
+
+🛡️ Areas of Interest
+
+- Network Security
+- Ethical Hacking & Penetration Testing
+- Vulnerability Assessment
+  
+💻 Technical Skills & Learning
+
+- Networking
+- Operating Systems
+- Programming: Python
+
+- Tools : Nmap,wireshark,maltgo,burpsuite.Nessus
+
+🎯 Goal
+
+To continuously improve my cybersecurity skills through practical labs, projects, and continuous learning.
+
+📫 Connect With Me
+
+- LinkedIn: "Ghayyaz Ali"
+- https://www.linkedin.com/in/ghayyaz-ali-b6611a418?utm_source=share_via&utm_content=profile&utm_medium=member_android
